@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopListKotlin</string>
+
+    <string name="fragment_shop_list_header_1">Добрый день.</string>
+    <string name="fragment_shop_list_header_2">Ваши записи для покупок.</string>
+
+    <string name="fragment_create_item">Создание списка</string>
+    <string name="fragment_create_item2">Изменение списка</string>
+    <string name="fragment_create_item_name">Название списка</string>
+    <string name="fragment_create_item_button_add">Добавть</string>
+    <string name="fragment_create_item_button_save">Сохранить список</string>
+</resources>
